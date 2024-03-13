@@ -1,2 +1,2 @@
-# AI_Virtual_Mouse_with_python
-we are using GitHub for storing our project as well as others use.
+# Virtual_mouse_with_python
+A virtual mouse is a software-based representation of a physical mouse that allows users to control their computer cursor without the need for a physical mouse. In Python, a virtual mouse can be created using libraries such as PyAutoGUI.
